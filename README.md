@@ -10,26 +10,19 @@ Anyone can contribute.
 
 Each idea should be **1 to a few pages**, clear and actionable.
 
-### 1. Title
-Short, descriptive name.
+### 1. Title — Short, descriptive name.
 
-### 2. Author (optional)
-Name, 1–2 line background, contact.
+### 2. Author (optional) — Name, brief background, contact.
 
-### 3. Abstract
-What is the idea, why it matters, what problem it solves.
+### 3. Abstract — What it is, why it matters, problem solved.
 
-### 4. Why It’s Interesting
-Why now, why Iran, expected impact.
+### 4. Why It’s Interesting — Why now, why Iran, expected impact.
 
-### 5. Approach
-Key steps, timeline, technologies or methods.
+### 5. Approach — Key steps, timeline, methods.
 
-### 6. Help Needed
-Talent, funding, data, partnerships.
+### 6. Help Needed — Talent, funding, data, partnerships.
 
-### 7. Supporting Material (recommended)
-Charts, images, links, videos.
+### 7. Supporting Material (recommended) — Charts, images, links, videos.
 
 ---
 
