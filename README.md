@@ -10,19 +10,19 @@ Anyone can contribute.
 
 Each idea should be **1 to a few pages**, clear and actionable.
 
-### 1. Title — Short, descriptive name.
+### 1. **Title** — Short, descriptive name.
 
-### 2. Author (optional) — Name, brief background, contact.
+### 2. **Author (optional)** — Name, brief background, contact.
 
-### 3. Abstract — What it is, why it matters, problem solved.
+### 3. **Abstract** — What it is, why it matters, problem solved.
 
-### 4. Why It’s Interesting — Why now, why Iran, expected impact.
+### 4. **Why It’s Interesting** — Why now, why Iran, expected impact.
 
-### 5. Approach — Key steps, timeline, methods.
+### 5. **Approach** — Key steps, timeline, methods.
 
-### 6. Help Needed — Talent, funding, data, partnerships.
+### 6. **Help Needed** — Talent, funding, data, partnerships.
 
-### 7. Supporting Material (recommended) — Charts, images, links, videos.
+### 7. **Supporting Material (recommended)** — Charts, images, links, videos.
 
 ---
 
@@ -32,8 +32,6 @@ Each idea should be **1 to a few pages**, clear and actionable.
 - Focus on solutions, not politics  
 - Prefer clarity over length  
 - Visuals strongly help  
-
----
 
 ## Goal
 
